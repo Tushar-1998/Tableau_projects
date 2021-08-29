@@ -1,6 +1,7 @@
 # Tableau_projects
 
-  # Aim/Objective: To find the losses of the organization & to improve their proftability for every region.
+  # Aim/Objective: To find the losses of the organization & to improve their profitability for every region.
+  
   # Solution: We have found out profitable strategies to increase the revenue of the organisation and also methods to reduce the losses in the sectors
   
 # Product sales Information in Detail.
