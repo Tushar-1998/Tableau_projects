@@ -1,6 +1,6 @@
 # Tableau_projects.
 
-# Another Venture that i have chipped on is Covid - 19 Dataset using the Tableau Desktop Application.
+# Covid - 19 DashBoard for Data Analysis & Data Visualization.
 
 Objective: To USe the Covid - 19 Dataset to analyze & visualize the Data into the Geographical Map, pie chart, line graph & bar Graph etc.
 
